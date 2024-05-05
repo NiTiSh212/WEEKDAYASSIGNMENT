@@ -21,13 +21,13 @@
 .card-company-name{
     display: flex;
     flex-direction: row;
-    gap: 20px                       ;
+    gap: 20px;
 }
 .logo{
     height: 50px;
     width: 50px;
 }
 img{
-    height: 50px;
-    width: 50px;
+    height: 45px;
+    width: 45px;
 }
