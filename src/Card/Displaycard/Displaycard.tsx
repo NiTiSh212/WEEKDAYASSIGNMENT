@@ -16,6 +16,10 @@ const Displaycard=({value})=>{
 
             </div>
             <div className="card-job-title">
+
+
+
+              
               {value?.jobRole}
             </div>
             <div className="card-job-description">
