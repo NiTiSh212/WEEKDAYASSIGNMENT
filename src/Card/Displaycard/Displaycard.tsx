@@ -11,6 +11,7 @@ const Displaycard=({value})=>{
                 </div>
                 <div className="company-name">
                 {value?.companyName}
+                
                 </div>
 
             </div>
