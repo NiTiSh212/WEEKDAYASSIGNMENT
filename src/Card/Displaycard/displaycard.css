@@ -1,0 +1,33 @@
+.card-container-box{
+    border: 2px solid black;
+    width: 25%;
+    padding: 1.5em 1.5em 1.5em 1.5em;
+}
+.card-apply-button{
+    display: flex;
+    justify-content: center;
+}
+.apply{
+    padding-left: 4em;
+    padding-right:4em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 1.2rem;
+    background-color: blue;
+    border-radius: 8px;
+}
+.card-company-name{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+.logo{
+    height: 50px;
+    width: 50px;
+}
+img{
+    height: 50px;
+    width: 50px;
+}

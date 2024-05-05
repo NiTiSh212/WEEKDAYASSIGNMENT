@@ -1,0 +1,8 @@
+.Main-card-conatiner{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    justify-content: center;
+    align-items: center;
+    padding-top: 2em;
+}
