@@ -11,7 +11,6 @@ const Displaycard=({value})=>{
                 </div>
                 <div className="company-name">
                 {value?.companyName}
-                
                 </div>
 
             </div>
@@ -19,7 +18,7 @@ const Displaycard=({value})=>{
 
 
 
-              
+
               {value?.jobRole}
             </div>
             <div className="card-job-description">
